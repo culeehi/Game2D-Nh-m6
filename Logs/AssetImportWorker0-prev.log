@@ -1,0 +1,465 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.42f1 (7ade1201f527) revision 8052242'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 15791 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.42f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/học/20231/CannonHero-main/CannonHero-main
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54641
+Successfully changed project path to: D:/học/20231/CannonHero-main/CannonHero-main
+D:/học/20231/CannonHero-main/CannonHero-main
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 52.92 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.42f1 (7ade1201f527)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.42f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/học/20231/CannonHero-main/CannonHero-main/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 Ti (ID=0x1f95)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   30.0.15.1278
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.42f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.42f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.42f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56708
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.42f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002912 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 57.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.604 seconds
+Domain Reload Profiling:
+	ReloadAssembly (604ms)
+		BeginReloadAssembly (72ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (452ms)
+			LoadAssemblies (69ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (148ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (174ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (58ms)
+				BeforeProcessingInitializeOnLoad (7ms)
+				ProcessInitializeOnLoadAttributes (79ms)
+				ProcessInitializeOnLoadMethodAttributes (26ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004189 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 54.04 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.124 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1126ms)
+		BeginReloadAssembly (164ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (22ms)
+		EndReloadAssembly (896ms)
+			LoadAssemblies (115ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (297ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (50ms)
+			SetupLoadedEditorAssemblies (349ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (54ms)
+				BeforeProcessingInitializeOnLoad (67ms)
+				ProcessInitializeOnLoadAttributes (189ms)
+				ProcessInitializeOnLoadMethodAttributes (25ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2290 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.9 MB.
+System memory in use after: 100.1 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2732.
+Total: 4.099900 ms (FindLiveObjects: 0.552500 ms CreateObjectMapping: 0.194000 ms MarkObjects: 3.277000 ms  DeleteObjects: 0.073900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Texture2D/shootthesun-hero01-foot02.png
+  artifactKey: Guid(470fa92dfd2d44b4d8d92e4094b65963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/shootthesun-hero01-foot02.png using Guid(470fa92dfd2d44b4d8d92e4094b65963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f090680549b38edbe4070c72fd06ca2') in 0.123785 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Texture2D/Icon-144x144 #479.png
+  artifactKey: Guid(564e4c8926b82044d8a9ea3036666444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/Icon-144x144 #479.png using Guid(564e4c8926b82044d8a9ea3036666444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37a3659e0e9edc7e8dbfad98e5d447db') in 0.023583 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Texture2D/Icon-72x72 #655.png
+  artifactKey: Guid(cfde4cbba6118ff43a2e03750845ac3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/Icon-72x72 #655.png using Guid(cfde4cbba6118ff43a2e03750845ac3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '340ffd5d13cecb9ada1a55e823f44fa1') in 0.020626 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Texture2D/shootthesun-enemy01-body.png
+  artifactKey: Guid(1262eb76e56cf4f40b98042ce2cb49e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/shootthesun-enemy01-body.png using Guid(1262eb76e56cf4f40b98042ce2cb49e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fcb83b9239193535039f4b24de4e8a1') in 0.018954 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Texture2D/button active.png
+  artifactKey: Guid(a6b963b713d17b044ab12ce790d5944d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/button active.png using Guid(a6b963b713d17b044ab12ce790d5944d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '236c7e01faf5b86f2d311b804ee0deef') in 0.020262 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Texture2D/shootthesun-enemy01-weapon.png
+  artifactKey: Guid(029c1026cff08b24e91e6b27efa65296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/shootthesun-enemy01-weapon.png using Guid(029c1026cff08b24e91e6b27efa65296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b31724aee0fd91dedbad9cb1509e48fe') in 0.014040 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Texture2D/Icon-76x76.png
+  artifactKey: Guid(59e285c898feba040b471b97c54f473a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/Icon-76x76.png using Guid(59e285c898feba040b471b97c54f473a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2208b22d31571f981a40d75312f4693') in 0.021430 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Texture2D/shootthesun-enemy01-hand.png
+  artifactKey: Guid(0181acd95612bb8438236a10654e25ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/shootthesun-enemy01-hand.png using Guid(0181acd95612bb8438236a10654e25ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4adca91eff6d8617c301be76a5e414a') in 0.013690 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Texture2D/shootthesun-hero01-body.png
+  artifactKey: Guid(98f3dba855d81804588f80f72ec9cbe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/shootthesun-hero01-body.png using Guid(98f3dba855d81804588f80f72ec9cbe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ece91e28d380a46e50a3e4f233e80e9') in 0.013526 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Texture2D/Icon-57x57.png
+  artifactKey: Guid(4525cc122c89d3c428bf258c2e87a988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/Icon-57x57.png using Guid(4525cc122c89d3c428bf258c2e87a988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd77ab5d4b01fc72626ebf4a10cc55f18') in 0.019802 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Texture2D/button hover.png
+  artifactKey: Guid(8b06081edf274dd489235459561a6137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/button hover.png using Guid(8b06081edf274dd489235459561a6137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4ebd2f9548c83f07ea0e4eb9914e369') in 0.021344 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Texture2D/Effect_TexturePack.png
+  artifactKey: Guid(dd457206c13c074498b5baa0ac3d8dcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/Effect_TexturePack.png using Guid(dd457206c13c074498b5baa0ac3d8dcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29c03432cc7e773a654ae65ceb9735fc') in 0.020906 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Texture2D/horizontal scrollbar.png
+  artifactKey: Guid(1cdc0f88687325042abe2335ff8148be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/horizontal scrollbar.png using Guid(1cdc0f88687325042abe2335ff8148be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27c47882fede34310158e856fb57d853') in 0.019607 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Texture2D/shootthesun-hero01-hand01.png
+  artifactKey: Guid(68db7000fa305c648bcf99f9ce9dad8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/shootthesun-hero01-hand01.png using Guid(68db7000fa305c648bcf99f9ce9dad8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea8615be6266d83ce82c58c8fd86c578') in 0.014663 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Texture2D/Icon-114x114.png
+  artifactKey: Guid(068162374fd520245a707e9210d7c3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/Icon-114x114.png using Guid(068162374fd520245a707e9210d7c3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6ef7fcd5662397e9c792634b9cf73ca') in 0.021699 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Texture2D/Icon-72x72.png
+  artifactKey: Guid(cd6ece25c2451464aba516f35f662a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/Icon-72x72.png using Guid(cd6ece25c2451464aba516f35f662a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ae05e1ac5a923914f1b36cb600a7d3f') in 0.018597 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Texture2D/shootthesun-hero02-hand01.png
+  artifactKey: Guid(de6b574f94c8caf43b3f8a7fcf6cce3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/shootthesun-hero02-hand01.png using Guid(de6b574f94c8caf43b3f8a7fcf6cce3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00605b5e22f86f3c987fe373e20bdc67') in 0.013195 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Texture2D/Icon-36x36.png
+  artifactKey: Guid(d1bf2ba0cf81f68489c5d86cb6c1fe66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/Icon-36x36.png using Guid(d1bf2ba0cf81f68489c5d86cb6c1fe66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '821cdd60851dff6bd934d27263054cd4') in 0.018710 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Texture2D/horizontal scrollbar thumb.png
+  artifactKey: Guid(048fbf5f394a5e64a8d73e52bd215a35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/horizontal scrollbar thumb.png using Guid(048fbf5f394a5e64a8d73e52bd215a35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c1ecc3d277073154f8db8ab4590fe8c') in 0.018623 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Texture2D/Background.png
+  artifactKey: Guid(251988900de2803478cd8f45660cd55e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/Background.png using Guid(251988900de2803478cd8f45660cd55e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d7a6123583cb4b2db1fd15b5723aa1c') in 0.018601 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Texture2D/Icon-120x120.png
+  artifactKey: Guid(ed0da10861a7ccf40b33475b6f00c09c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/Icon-120x120.png using Guid(ed0da10861a7ccf40b33475b6f00c09c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4883840c1e82961fa9e6ccf71f680f18') in 0.019262 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Texture2D/ograteus0.png
+  artifactKey: Guid(0ecd5c5c66d5b5844b09aa61e5771977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/ograteus0.png using Guid(0ecd5c5c66d5b5844b09aa61e5771977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '443381493ba10333f9403203cbe4da96') in 0.035463 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Texture2D/Icon-180x180.png
+  artifactKey: Guid(ad59bd2d4ecb31d488ee30bace95075f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/Icon-180x180.png using Guid(ad59bd2d4ecb31d488ee30bace95075f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eefb6fb9692babaf64cad61e18be0b8c') in 0.026368 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Texture2D/shootthesun-enemy01-foot.png
+  artifactKey: Guid(167aa58f110faac42ade9b7c8e17f2fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/shootthesun-enemy01-foot.png using Guid(167aa58f110faac42ade9b7c8e17f2fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10c14fbeee33b4772ba9948a8f8a0c56') in 0.019241 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Texture2D/Icon-152x152.png
+  artifactKey: Guid(a15e4656c41487845af2e27fe5f379d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/Icon-152x152.png using Guid(a15e4656c41487845af2e27fe5f379d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47f88cc88ab9d549046308b069434e18') in 0.020073 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Texture2D/Icon-192x192.png
+  artifactKey: Guid(096b3bb7f44109e469435a5aefe569a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/Icon-192x192.png using Guid(096b3bb7f44109e469435a5aefe569a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e19404daf8395639d72e55b8d7186e2f') in 0.020073 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Texture2D/Icon-96x96.png
+  artifactKey: Guid(630771096a08bbd419496de7b1a84fb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/Icon-96x96.png using Guid(630771096a08bbd419496de7b1a84fb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5690a1be1a4182c2a12a0128044f54dc') in 0.019826 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Texture2D/onePixel.png
+  artifactKey: Guid(df79da6ed1f69fb4995959ecb35d435a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/onePixel.png using Guid(df79da6ed1f69fb4995959ecb35d435a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f94b01d91b34f91e541c1e489fd0361') in 0.018164 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Texture2D/shootthesun-enemy01-head.png
+  artifactKey: Guid(0c3c9f17205faf54f8aa4c7addb3f4d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/shootthesun-enemy01-head.png using Guid(0c3c9f17205faf54f8aa4c7addb3f4d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3490f3e80ceb5a1e47115318e802a7ed') in 0.014061 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Texture2D/shootthesun-hero01-weapon.png
+  artifactKey: Guid(9310bd423e948d2418bc7b5dbd54a92d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/shootthesun-hero01-weapon.png using Guid(9310bd423e948d2418bc7b5dbd54a92d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac2d5c19f5813a19b9d463228a294190') in 0.014468 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Texture2D/box.png
+  artifactKey: Guid(13dc176b86079d24f841317d35c1378f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/box.png using Guid(13dc176b86079d24f841317d35c1378f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da0a944973b9ccdbe54fe0712a13c9f7') in 0.017365 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Texture2D/og_crosssell_btns.png
+  artifactKey: Guid(3759e892368ea7c4f93c573bdc8bf6b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/og_crosssell_btns.png using Guid(3759e892368ea7c4f93c573bdc8bf6b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f3f2478f26e75a03e8f6e2b51801e88') in 0.020955 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Texture2D/shootthesun-hero02-foot02.png
+  artifactKey: Guid(81bbfed52b1259c4a841350c67335ab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/shootthesun-hero02-foot02.png using Guid(81bbfed52b1259c4a841350c67335ab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d2680d8b60db7ae210d7b7a50acb9c3') in 0.013296 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Texture2D/button on hover.png
+  artifactKey: Guid(e252ee8ee7d75c044be85e6c1f8d02a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/button on hover.png using Guid(e252ee8ee7d75c044be85e6c1f8d02a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9780b59a2ac169be3a04763dc6be7999') in 0.017336 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Texture2D/shootthesun-hero02-foot01.png
+  artifactKey: Guid(c33cc0023cfa7754e84e8428562736ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/shootthesun-hero02-foot01.png using Guid(c33cc0023cfa7754e84e8428562736ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bedd6f832deb5ed597554ac04c5d2209') in 0.012936 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Texture2D/shootthesun-hero01-head.png
+  artifactKey: Guid(8dc4c4e09c5c193439f3e5cb68b84bdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/shootthesun-hero01-head.png using Guid(8dc4c4e09c5c193439f3e5cb68b84bdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98afd249d71a454fd751777d998989cc') in 0.013122 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Texture2D/button on.png
+  artifactKey: Guid(5eb1a07e01ca4cd4788dbbf9ff5fd0b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/button on.png using Guid(5eb1a07e01ca4cd4788dbbf9ff5fd0b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee3d50cc50245a530dd04f28c70eef16') in 0.018532 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Texture2D/shootthesun-hero01-foot01.png
+  artifactKey: Guid(5fb1f0ba6a172ad49a8565b7197505ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/shootthesun-hero01-foot01.png using Guid(5fb1f0ba6a172ad49a8565b7197505ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76d1337b67ffc167b36fd50c13279ea8') in 0.013001 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Texture2D/OGSplash1.png
+  artifactKey: Guid(c318564078629bc4abb85d5f7e4e2d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/OGSplash1.png using Guid(c318564078629bc4abb85d5f7e4e2d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec2b3e0f69c51fe20d013fe25b16b367') in 0.025791 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Texture2D/horizontalslider.png
+  artifactKey: Guid(777b6a9a6a45adb4d988ff5de1d03d45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/horizontalslider.png using Guid(777b6a9a6a45adb4d988ff5de1d03d45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12913f204588267db358d61f2a2845ab') in 0.019818 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Texture2D/Icon-48x48.png
+  artifactKey: Guid(8de68e2a36ecbca4a9eec6269a07cf4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/Icon-48x48.png using Guid(8de68e2a36ecbca4a9eec6269a07cf4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdbb7c8172bc2c4ab7a71c039f64552a') in 0.017846 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Texture2D/EscToExit_back.png
+  artifactKey: Guid(c091ae8956bc63c429c265bbd4c185c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/EscToExit_back.png using Guid(c091ae8956bc63c429c265bbd4c185c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92c88cb91dda318fbd2950c12e8d0b46') in 0.020852 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Texture2D/EscToExit_Text.png
+  artifactKey: Guid(084cef1834642db438f03d52e47fe0b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/EscToExit_Text.png using Guid(084cef1834642db438f03d52e47fe0b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49475429016f64ff7ad1b42c67b6401f') in 0.017949 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Texture2D/Icon-144x144.png
+  artifactKey: Guid(1787c277709ced945847632db65c0772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/Icon-144x144.png using Guid(1787c277709ced945847632db65c0772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73a4dc35262929dab4c1f945d85369a3') in 0.019498 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Texture2D/button.png
+  artifactKey: Guid(0e156ab2fb2cc7f4d8369b70aebafb1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture2D/button.png using Guid(0e156ab2fb2cc7f4d8369b70aebafb1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6071b9fe2fd95e63ffac4ff290bd86c7') in 0.016735 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.635737 seconds.
+  path: Assets/Resources/DOTweenSettings.asset
+  artifactKey: Guid(f8b581ac17a31d247a84ecfdbbfec408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/DOTweenSettings.asset using Guid(f8b581ac17a31d247a84ecfdbbfec408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc1991dedaa12aedfc50305bc06b39cc') in 0.016213 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004325 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.960 seconds
+Domain Reload Profiling:
+	ReloadAssembly (960ms)
+		BeginReloadAssembly (122ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (34ms)
+		EndReloadAssembly (776ms)
+			LoadAssemblies (106ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (296ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (266ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (58ms)
+				ProcessInitializeOnLoadAttributes (179ms)
+				ProcessInitializeOnLoadMethodAttributes (15ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2279 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.4 MB.
+System memory in use after: 102.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2802.
+Total: 3.704100 ms (FindLiveObjects: 0.270700 ms CreateObjectMapping: 0.065900 ms MarkObjects: 3.344000 ms  DeleteObjects: 0.022300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
